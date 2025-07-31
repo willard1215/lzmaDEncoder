@@ -17,13 +17,13 @@ Built by port [this project](https://github.com/L-Leite/csovxl) to Java.
 압축해제(decompression)
 
 ```bash
-java -jar vxl.jar d [inputname.vxl] [outputname.dec_data]
+java -jar DEncoder-1.0.jar d [inputname.vxl] [outputname.dec_data]
 ```
 
 압축(compression)
 
 ```bash
-java -jar vxl.jar c [outputname.dec_data] [inputname.vxl]
+java -jar DEncoder-1.0.jar c [outputname.dec_data] [inputname.vxl]
 ```
 
 ## License
